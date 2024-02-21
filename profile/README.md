@@ -2,9 +2,13 @@
 
 `Production-ready MLE & MLOps learning resources hub`
 
+----
+
 <p align="center"><i>Welcome to Decoding ML</i></p>
 
 <p align="center"><i>When ML production systems look encoded - we'll help you decode it.</i></p>
+
+----
 
 Decoding ML is a newsletter that approaches ML production use cases using good SWE and MLOps practices.
 
