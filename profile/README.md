@@ -24,5 +24,13 @@ Decoding ML is the hub for continuous learning on:
 - ML engineering
 - MLOps
 
-We are all about designing, coding, deploying, and monitoring awesome ML use cases that can directly be applied in the real world — no stories — just hands-on content.
+*We are all about designing, coding, deploying, and monitoring awesome ML use cases that can directly be applied in the real world — no stories — just hands-on content.*
+
+## Why follow?
+
+Join Decoding ML for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems.
+
+> No more bedtime stories in Jupyter Notebooks.
+
+→ *Decoding ML is all about hands-on advice from our 10+ years of experience.*
 
