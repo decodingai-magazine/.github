@@ -1,6 +1,8 @@
 <p align="center"><img src="https://github.com/DecodingML/.github/blob/main/media/banner_small.png?raw=true"></p>
 
-<p align="center"><h3>The hub for engineering production ML & MLOps systems</h3></p>
+<div align="center">
+  <h3>The hub for engineering production ML & MLOps systems</h3>
+</div>
 
 ----
 
