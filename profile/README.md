@@ -12,17 +12,17 @@
 
 ----
 
-Decoding ML is a newsletter that approaches ML production use cases using good SWE and MLOps practices.
+Decoding ML creates battle-tested content on designing, coding and deploying production-grade ML systems leveraging good SWE and MLOps practices.
 
 > Our motto is "More engineering, less F1 scores."
-
-By subscribing to Decoding ML, you will learn how to build end-to-end ML systems.
 
 Decoding ML is the hub for continuous learning on:
 
 - ML system design
 - ML engineering
 - MLOps
+- LLMs
+- CV
 
 *We are all about designing, coding, deploying, and monitoring awesome ML use cases that can directly be applied in the real world — no stories — just hands-on content.*
 
