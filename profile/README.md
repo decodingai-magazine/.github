@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/DecodingML/.github/blob/main/media/banner_small.png?raw=true"></p>
 
 <div align="center">
-  <h3>The hub for engineering production ML & MLOps systems</h3>
+  <h3>The hub for continuous learning on production-grade ML & MLOps systems</h3>
 </div>
 
 ----
