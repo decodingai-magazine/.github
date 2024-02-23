@@ -36,3 +36,8 @@ Join [Decoding ML](https://decodingml.substack.com/) for battle-tested content o
 
 → *DML is all about hands-on advice from our 10+ years of experience in AI.*
 
+### We are also on:
+
+✉️ [Newsletter](https://decodingml.substack.com/)
+
+🖋️  [Medium](https://medium.com/decodingml)
