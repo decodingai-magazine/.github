@@ -12,7 +12,7 @@
 
 ----
 
-[Decoding ML](https://decodingml.substack.com/) creates battle-tested content on building production-grade ML systems leveraging good SWE and MLOps practices. 
+[Decoding ML](https://decodingml.substack.com/) is a publication that creates battle-tested content on building production-grade ML systems leveraging good SWE and MLOps practices.
 
 > Our motto is "More engineering, less F1 scores."
 
