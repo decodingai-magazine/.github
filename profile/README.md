@@ -12,7 +12,7 @@
 
 ----
 
-Decoding ML creates battle-tested content on building production-grade ML systems leveraging good SWE and MLOps practices. 
+[Decoding ML](https://decodingml.substack.com/) creates battle-tested content on building production-grade ML systems leveraging good SWE and MLOps practices. 
 
 > Our motto is "More engineering, less F1 scores."
 
@@ -30,9 +30,9 @@ Decoding ML is the hub for continuous learning on:
 
 ## Why follow?
 
-Join Decoding ML for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems.
+Join [Decoding ML](https://decodingml.substack.com/) for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems. *Every week.* For FREE.
 
 > No more bedtime stories in Jupyter Notebooks.
 
-→ *Decoding ML is all about hands-on advice from our 10+ years of experience in AI.*
+→ *DML is all about hands-on advice from our 10+ years of experience in AI.*
 
