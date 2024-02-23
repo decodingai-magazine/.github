@@ -12,7 +12,9 @@
 
 ----
 
-Decoding ML creates battle-tested content on designing, coding and deploying production-grade ML systems leveraging good SWE and MLOps practices.
+Decoding ML creates battle-tested content on building production-grade ML systems leveraging good SWE and MLOps practices. 
+
+We focus on the entire lifecycle of an ML system, from system design to deploying and monitoring.
 
 > Our motto is "More engineering, less F1 scores."
 
@@ -21,10 +23,10 @@ Decoding ML is the hub for continuous learning on:
 - ML system design
 - ML engineering
 - MLOps
-- LLMs
-- CV
+- Large language models
+- Computer vision
 
-**We are all about designing, coding, deploying, and monitoring awesome ML use cases that can directly be applied at your work, in the real world — no stories — just hands-on content.**
+**We are all about end-to-end ML use cases that can directly be applied in the real world — no stories — just hands-on content.**
 
 ## Why follow?
 
