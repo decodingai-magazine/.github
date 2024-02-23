@@ -14,9 +14,9 @@
 
 Decoding ML creates battle-tested content on building production-grade ML systems leveraging good SWE and MLOps practices. 
 
-We focus on the entire lifecycle of an ML system, from system design to deploying and monitoring.
-
 > Our motto is "More engineering, less F1 scores."
+
+*Following Decoding ML, you will learn about the entire lifecycle of an ML system, from system design to deploying and monitoring.*
 
 Decoding ML is the hub for continuous learning on:
 
