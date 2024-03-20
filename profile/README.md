@@ -30,7 +30,7 @@ Decoding ML is the hub for continuous learning on:
 
 ## Why follow?
 
-Join [Decoding ML](https://decodingml.substack.com/) for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems. *Every week.* For FREE.
+Join [Decoding ML](https://decodingml.substack.com/) for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems. *Every week.* **For FREE**.
 
 > No more bedtime stories in Jupyter Notebooks.
 
@@ -43,3 +43,7 @@ Join [Decoding ML](https://decodingml.substack.com/) for battle-tested content o
 ✉️ [Newsletter](https://decodingml.substack.com/)
 
 🖋️  [Medium](https://medium.com/decodingml)
+
+🐦 [Twitter(X)](https://twitter.com/decodingml)
+
+📱 [LinkedIn](https://www.linkedin.com/company/decoding-ml)
