@@ -51,8 +51,6 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
 
 ---
 
-<iframe src="https://decodingml.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
 <div align="center">
   <i><a href="https://decodingml.substack.com/">Join us in building the future of production AI systems!</a></i>
 </div>
