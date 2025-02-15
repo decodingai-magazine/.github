@@ -50,5 +50,5 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
 📧 Reach out at [p.b.iusztin@gmail.com](mailto:p.b.iusztin@gmail.com)
 
 <div align="center">
-  <i>Join us in building the future of production AI systems!</i>
+  <i><a href="https://decodingml.substack.com/">Join us in building the future of production AI systems!</a></i>
 </div>
