@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/DecodingML/.github/blob/main/media/banner.png?raw=true"></p>
+<p align="center"><img src="https://github.com/DecodingML/.github/blob/main/media/banner.jpg?raw=true"></p>
 
 <div align="center">
   <h3>The hub for continuous learning on production-grade AI, GenAI, and information retrieval systems</h3>
