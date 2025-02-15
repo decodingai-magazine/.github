@@ -36,7 +36,7 @@ Join [Decoding ML](https://decodingml.substack.com/) for proven content on desig
 
 ## Our resources on learning AI:
 
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Courses&style=for-the-badge&color=black)](https://decodingml.substack.com/p/master-production-ai-with-our-end)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Free%20Courses&style=for-the-badge&color=black)](https://decodingml.substack.com/p/master-production-ai-with-our-end)
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Perks&style=for-the-badge&color=black)](https://decodingml.substack.com/p/perks-exclusive-discounts-on-our)
 
 ## On:
