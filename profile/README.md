@@ -17,7 +17,7 @@
 
 ## 🎯 Our mission
 
-[Decoding ML](https://decodingml.substack.com/) is a publication that creates battle-tested content on building production-grade AI, GenAI, and information retrieval systems — built with ML systems, MLE, and MLOps best practices.
+[Decoding ML](https://decodingml.substack.com/) is a publication that creates proven content on designing, coding, and deploying production-grade AI systems with software engineering and MLOps best practices to help you ship AI applications.
 
 > Our motto is "More engineering, less F1 scores."
 
