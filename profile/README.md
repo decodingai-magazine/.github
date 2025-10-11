@@ -1,9 +1,9 @@
-<p align="center"><img src="https://github.com/DecodingML/.github/blob/main/media/banner.jpg?raw=true"></p>
+<p align="center"><img src="https://github.com/decodingai-magazine/.github/blob/main/media/banner.jpg?raw=true"></p>
 
 <div align="center">
-  <h1>Welcome to Decoding ML</h1>
-  <h3>The hub for continuous learning on production-grade AI, GenAI, and information retrieval systems</h3>
-  <p><i>When AI systems look encoded - we'll help you decode them.</i></p>
+  <h1>Welcome to the Decoding AI Magazine</h1>
+  <h3>The hub for continuous learning on production-grade AI.</h3>
+  <p><i>Our motto: When AI systems look encoded - we'll help you decode them.</i></p>
 </div>
 
 <div align="center">
@@ -17,13 +17,11 @@
 
 ## 🎯 Our mission
 
-[Decoding ML](https://decodingml.substack.com/) is a publication that creates proven content on designing, coding, and deploying production-grade AI systems with software engineering and MLOps best practices to help you ship AI applications.
-
-> Our motto is "More engineering, less F1 scores."
+[Decoding AI](https://decodingai.com) is a magazine that creates proven content on designing, coding, and deploying production-grade AI systems with software engineering and MLOps best practices to help you ship AI applications.
 
 ## 🔍 What we cover
 
-*Following Decoding ML, you will learn about the entire lifecycle of an AI system, from system design to deploying and monitoring.*
+*Following Decoding AI, you will learn about the entire lifecycle of an AI system, from system design to deploying and monitoring.*
 
 - 🤖 **GenAI Systems** - From concept to production
 - 🔎 **Information Retrieval** - Building scalable search and recommender systems
@@ -33,14 +31,14 @@
 
 ## 🗞️ Why subscribe to our newsletter and blog?
 
-Join [Decoding ML](https://decodingml.substack.com/) for proven content on designing, coding, and deploying production-grade AI systems. **Every week, straight to your inbox.**
+Join [Decoding AI](https://decodingai.com) for proven content on designing, coding, and deploying production-grade AI systems. **Every week, straight to your inbox.**
 
 > No more bedtime stories in Jupyter Notebooks.
 
 ## 🎓 Our resources on learning AI:
 
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Free%20Courses&style=for-the-badge&color=black)](https://decodingml.substack.com/p/master-production-ai-with-our-end)
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Perks&style=for-the-badge&color=black)](https://decodingml.substack.com/p/perks-exclusive-discounts-on-our)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Free%20Courses&style=for-the-badge&color=black)](https://decodingai.com/p/master-production-ai-with-our-end)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Perks&style=for-the-badge&color=black)](https://decodingai.com/p/perks-exclusive-discounts-on-our)
 
 
 ## 🤝 Let's collaborate!
@@ -52,5 +50,5 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
 ---
 
 <div align="center">
-  <i><a href="https://decodingml.substack.com/">Join us in building the future of production AI systems!</a></i>
+  <i><a href="https://decodingai.com/">Join us in building the future of production AI systems!</a></i>
 </div>
