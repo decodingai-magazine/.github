@@ -14,6 +14,8 @@
 
 </div>
 
+![Views](https://komarev.com/ghpvc/?username=decodingai-magazine)
+
 ## 🎯 The Playbook
 
 [Decoding AI](https://decodingai.com) is your weekly hub for learning how to design, build, and ship production-grade AI systems. End-to-end.
