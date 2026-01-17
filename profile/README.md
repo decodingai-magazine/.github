@@ -2,53 +2,47 @@
 
 <div align="center">
   <h1>Welcome to the Decoding AI Magazine</h1>
-  <h3>The hub for continuous learning on production-grade AI.</h3>
-  <p><i>Our motto: When AI systems look encoded - we'll help you decode them.</i></p>
+  <h3>Real-world guides taking you from PoC purgatory to shipping AI products that work.</h3>
 </div>
 
 <div align="center">
   
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](https://www.decodingai.com/)
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://www.decodingai.com/)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Magazine&style=for-the-badge&color=black)](https://www.decodingai.com/)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Substack&style=for-the-badge&color=black)](https://substack.com/@pauliusztin?)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/pauliusztin/)
 [![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/pauliusztin_)
 
 </div>
 
-## 🎯 Our mission
+## 🎯 The Playbook
 
-[Decoding AI](https://decodingai.com) is a magazine that creates proven content on designing, coding, and deploying production-grade AI systems with software engineering and MLOps best practices to help you ship AI applications.
+[Decoding AI](https://decodingai.com) is your weekly hub for learning how to design, build, and ship production-grade AI systems. End-to-end.
 
-## 🔍 What we cover
 
-*Following Decoding AI, you will learn about the entire lifecycle of an AI system, from system design to deploying and monitoring.*
+## 🗞️ Why Subscribe?
 
-- 🤖 **GenAI Systems** - From concept to production
-- 🔎 **Information Retrieval** - Building scalable search and recommender systems
-- 🏗️ **AI System Design** - Architecture and best practices
-- ⚙️ **AI Engineering** - Hands-on implementation guides
-- 🛠️ **MLOps/LLMOps** - Production deployment and monitoring
+Joining [Decoding AI](https://decodingai.com) you will learn about the entire lifecycle of an AI system, from data collection and system design to deployment, monitoring, and evaluation.
 
-## 🗞️ Why subscribe to our newsletter and blog?
+- **Real-World:** No bed-time stories, just hands-on content.
+- **Time-efficient:** Every Tuesday, you’ll get one free actionable tip in less than 8 minutes.
+- **Future-proof:** Learn the skills that will thrive in a future dominated by AI coding tools.
 
-Join [Decoding AI](https://decodingai.com) for proven content on designing, coding, and deploying production-grade AI systems. **Every week, straight to your inbox.**
+<div align="center">
+  
+  [![](https://img.shields.io/static/v1?label&logo=substack&message=Join%20Us&style=for-the-badge&color=black)](https://www.decodingai.com/)
+  
+</div>
 
-> No more bedtime stories in Jupyter Notebooks.
+## 📚 The Knowledge Base
 
-## 🎓 Our resources on learning AI:
-
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Free%20Courses&style=for-the-badge&color=black)](https://decodingai.com/p/master-production-ai-with-our-end)
+[![](https://img.shields.io/static/v1?label&logo=web&message=Courses&style=for-the-badge&color=black)](https://www.pauliusztin.ai/courses)
+[![](https://img.shields.io/static/v1?label&logo=web&message=The%20LLM%20Engineer's%20Handbook&style=for-the-badge&color=black)](https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Roadmaps&style=for-the-badge&color=black)](https://www.decodingai.com/p/ai-engineering-roadmaps)
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Perks&style=for-the-badge&color=black)](https://decodingai.com/p/perks-exclusive-discounts-on-our)
 
 
 ## 🤝 Let's collaborate!
 
-We're always excited to collaborate with AI practitioners and creators. Have an idea or want to work together?
+We'd love to collaborate with guest authors, brands and start-ups. 
 
-📧 Reach out at [p.b.iusztin@gmail.com](mailto:p.b.iusztin@gmail.com)
-
----
-
-<div align="center">
-  <i><a href="https://decodingai.com/">Join us in building the future of production AI systems!</a></i>
-</div>
+📧 Reach out [here](https://www.pauliusztin.ai/contact)
