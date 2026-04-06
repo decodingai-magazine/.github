@@ -46,4 +46,4 @@ Joining [Decoding AI](https://decodingai.com) you will learn about the entire li
 
 We'd love to collaborate with guest authors, brands and start-ups. 
 
-📧 Reach out [here](https://www.pauliusztin.ai/contact)
+📧 [Contact Me](https://www.pauliusztin.ai/contact)
