@@ -40,7 +40,6 @@ Joining [Decoding AI](https://decodingai.com) you will learn about the entire li
 [![](https://img.shields.io/static/v1?label&logo=web&message=Courses&style=for-the-badge&color=black)](https://www.pauliusztin.ai/courses)
 [![](https://img.shields.io/static/v1?label&logo=web&message=The%20LLM%20Engineer's%20Handbook&style=for-the-badge&color=black)](https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/)
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Roadmaps&style=for-the-badge&color=black)](https://www.decodingai.com/p/ai-engineering-roadmaps)
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Perks&style=for-the-badge&color=black)](https://decodingai.com/p/perks-exclusive-discounts-on-our)
 
 
 ## 🤝 Let's collaborate!
